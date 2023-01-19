@@ -1,0 +1,10 @@
+body {
+  background-color: grey;
+}
+#ground {
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: white;
+}
+/*# sourceMappingURL=style.css.map */
